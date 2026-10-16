@@ -29,6 +29,30 @@ export const customerReviews = [
     text: 'Mijn BMW 1-reeks bij Mike binnengebracht voor onderhoud en heel tevreden van de service. Alles was correct uitgevoerd en de prijs was ook heel goed. Mike weet duidelijk waar hij mee bezig is. Niets op aan te merken en ik zou zeker opnieuw gaan.',
     rating: 5,
   },
+  {
+    name: 'Mauro',
+    title: 'Zeer tevreden over de service',
+    text: 'Zeer tevreden over de service! Mijn KTM SX 85 is op slechts één dag volledig in orde gezet. De cilinder en piston zijn vervangen en meteen ook het nodige onderhoud uitgevoerd. Alles werd netjes gedaan, met duidelijke communicatie en een snelle service. Mijn KTM rijdt weer perfect! Zeker een aanrader voor iedereen die zijn motor goed wil laten onderhouden. 💪🏁',
+    rating: 5,
+  },
+  {
+    name: 'Eric',
+    title: 'Aangenaam contact en goede technische kennis',
+    text: 'Aangenaam no-nonsense contact.\nSnel geholpen, met kennis van zaken.\nHeel tevreden van de geleverde service.\nMijn CFmoto 700 CL-X schakelt weer als nieuw.\nWat fijn dat dit zo dicht bij mijn huis beschikbaar is.',
+    rating: 5,
+  },
+  {
+    name: 'Natascha',
+    title: 'Zeer vlotte service',
+    text: 'Zeer vlotte service\nDe olie van mijn scooter moest ververst worden en dit ging heel vlug. Super tevreden. En aan een lage prijs. Zeer vriendelijke man die mij ook het nodige advies mee gaf.\nIk kom zeker terug.',
+    rating: 5,
+  },
+  {
+    name: 'Matteo',
+    title: 'Ik heb mijn oldtimer Vespa binnen…',
+    text: 'Ik heb mijn oldtimer Vespa binnen gebracht waar er veel problemen aan waren en MC service heeft me er bij kunnen helpen.',
+    rating: 5,
+  },
 ];
 
 const carousel = document.querySelector('[data-review-carousel]');
